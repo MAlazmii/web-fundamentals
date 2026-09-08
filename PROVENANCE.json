@@ -1,0 +1,55 @@
+[
+  {
+    "repository": "https://github.com/MAlazmii/HTML_Laps.git",
+    "commit": "6bf38ae430511e1e96fa724a9bb4ff612e787d15",
+    "exercise": "html-php",
+    "files": [
+      {
+        "source": "README.md",
+        "destination": "docs/original-readmes/html-php.md",
+        "sha256": "1bd6d9edb56ea40081d3b56e52b87f3fe1ad7fe8c4b910643ece4f235f562b1f"
+      },
+      {
+        "source": "page01A.html",
+        "destination": "exercises/html-php/page01A.html",
+        "sha256": "6925183242638e8ed05b617416fbb226ff64ed47134cf9a6ed4d4d0f587f990e"
+      },
+      {
+        "source": "page01B.html",
+        "destination": "exercises/html-php/page01B.html",
+        "sha256": "0e5551c77c8c0e1bce05722507d230faa7a0811e0024981b3fe56914423d5ed3"
+      },
+      {
+        "source": "page01C.html",
+        "destination": "exercises/html-php/page01C.html",
+        "sha256": "98bec1579380a863abb4e826b719098925a01d92d02c73a0c70f0314d7e09940"
+      },
+      {
+        "source": "page01D.html",
+        "destination": "exercises/html-php/page01D.html",
+        "sha256": "659fdb8af460592f559fba95b3899881cdcc4e1386a7980748c838bce208b8e4"
+      },
+      {
+        "source": "php02A.php",
+        "destination": "exercises/html-php/php02A.php",
+        "sha256": "77fda180fcabbb04072fbc5970fb19f7bf6bce5d7dd74578d101cec8a3c7e0df"
+      },
+      {
+        "source": "php02B.php",
+        "destination": "exercises/html-php/php02B.php",
+        "sha256": "c980f504979cf6efbc72f7c6297fd9355fdd76d4099b2804fa5cfc9744493d5b"
+      },
+      {
+        "source": "php02C.php",
+        "destination": "exercises/html-php/php02C.php",
+        "sha256": "b71aae243fc2d7106c569a61990b9fb47b57ea078bcdc7e7e12ae8b8c6670d51"
+      },
+      {
+        "source": "php02D.php",
+        "destination": "exercises/html-php/php02D.php",
+        "sha256": "de162f7153a643e81899632acbc85d9a59f092fe9f6c9d8891b6c461cf6be7e3"
+      }
+    ],
+    "excluded_generated_files": []
+  }
+]
